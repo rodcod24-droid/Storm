@@ -5,7 +5,7 @@ rootProject.name = "CloudstreamPlugins"
 val disabled = listOf<String>(
 "CinecalidadProvider",
 "AnimeflvProvider",
-"AnimeflvIOProvider,
+"AnimeflvIOProvider",
 "AnimeJlProvider",
 )
 
