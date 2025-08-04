@@ -7,6 +7,8 @@ val disabled = listOf<String>(
 "AnimeflvProvider",
 "AnimeflvIOProvider",
 "AnimeJlProvider",
+"PelisplusHDProvider",
+"Pelisplus4KProvider"
 )
 
 File(rootDir, ".").eachDir { dir ->
