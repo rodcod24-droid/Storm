@@ -1,1 +1,8 @@
-no
+{
+    "name": "Rodo providers repository",
+    "description": "Cloudstream extension Repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/rodcod24-droid/Storm/refs/heads/builds/plugins.json"
+    ]
+}
